@@ -6,7 +6,7 @@ the maths behind it, code and small experiments on real datasets.
 
 ## Download
 
-The notes are split into three PDFs:
+The notes are split into three PDFs of 46 pages each:
 
 - [Part 1](data_science_notes_part1.pdf)
 - [Part 2](data_science_notes_part2.pdf)
