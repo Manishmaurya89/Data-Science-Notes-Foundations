@@ -19,7 +19,11 @@ These notes are not just theory — they reflect:
 
 ## 📄 Notes (Download)
 
-👉 [Download Full Notes](docs/data-science-handwritten-notes.pdf)
+The notes are split into three PDFs:
+
+- 👉 [Part 1](data_science_notes_part1.pdf)
+- 👉 [Part 2](data_science_notes_part2.pdf)
+- 👉 [Part 3](data_science_notes_part3.pdf)
 
 ---
 
