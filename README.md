@@ -1,108 +1,45 @@
+# Data Science Notes and Foundations
 
-# 📊 Data Science Notes & Foundations
+These are my handwritten notes from learning data science, statistics and algorithmic thinking. There are more
+than 130 pages. I wrote them to understand why things work, not just how to call a library, so they mix theory,
+the maths behind it, code and small experiments on real datasets.
 
-This repository documents my structured journey into **Data Science, Statistics, and Algorithmic Thinking** through detailed handwritten notes and practical exploration.
-
----
-
-## 📘 About This Repository
-
-Over time, I have created **130+ pages of handwritten notes** covering core concepts required for Data Science and Machine Learning.
-
-These notes are not just theory — they reflect:
-- Concept breakdowns
-- Mathematical intuition
-- Code-level understanding
-- Real dataset exploration
-
----
-
-## 📄 Notes (Download)
+## Download
 
 The notes are split into three PDFs:
 
-- 👉 [Part 1](data_science_notes_part1.pdf)
-- 👉 [Part 2](data_science_notes_part2.pdf)
-- 👉 [Part 3](data_science_notes_part3.pdf)
+- [Part 1](data_science_notes_part1.pdf)
+- [Part 2](data_science_notes_part2.pdf)
+- [Part 3](data_science_notes_part3.pdf)
 
----
+## What's covered
 
-## 🧠 Topics Covered
+**Programming and data handling:** NumPy (arrays, operations, vectorization), Pandas (DataFrames, CSV files) and
+data preprocessing.
 
-### 🔹 Programming & Data Handling
-- NumPy (arrays, operations, vectorization)
-- Pandas (DataFrames, CSV handling)
-- Data preprocessing
+**Data visualization:** Matplotlib, Seaborn basics, exploratory data analysis (EDA) and an analysis of the Iris
+dataset.
 
-### 🔹 Data Visualization
-- Matplotlib
-- Seaborn basics
-- Exploratory Data Analysis (EDA)
-- Iris dataset analysis
+**Algorithmic thinking:** time complexity (O(1), O(n), O(log n) and so on), space complexity, and best, average
+and worst cases.
 
-### 🔹 Algorithmic Thinking
-- Time Complexity (O(1), O(n), O(log n), etc.)
-- Space Complexity
-- Best, Average, Worst case analysis
+**Statistics and probability:** mean, median, variance, standard deviation, MAD, IQR, box plots, PDF and CDF, the
+Gaussian distribution, sampling and the Central Limit Theorem, and hypothesis testing.
 
-### 🔹 Statistics & Probability
-- Mean, Median, Variance, Standard Deviation
-- MAD, IQR, Box plots
-- PDF, CDF
-- Gaussian Distribution
-- Sampling & Central Limit Theorem
-- Hypothesis Testing
+**Machine learning foundations:** classification and regression, K-Nearest Neighbors (KNN) and building intuition
+for how models behave.
 
-### 🔹 Machine Learning Foundations
-- Classification vs Regression
-- K-Nearest Neighbors (KNN)
-- Model intuition
+**Dimensionality reduction:** PCA, the intuition behind eigenvalues and eigenvectors, and other ways to reduce
+features.
 
-### 🔹 Dimensionality Reduction
-- PCA (Principal Component Analysis)
-- Eigenvalues & Eigenvectors intuition
-- Feature reduction techniques
+**NLP:** Bag of Words, TF-IDF, Word2Vec (CBOW and Skip-gram) and other ways to turn text into vectors.
 
-### 🔹 Natural Language Processing (NLP)
-- Bag of Words (BoW)
-- TF-IDF
-- Word2Vec (CBOW, Skip-gram)
-- Text vectorization techniques
+The tools used throughout are Python, NumPy, Pandas, Matplotlib and Seaborn.
 
----
+## A note before you read
 
-## ✍️ Why This Matters
+I wrote these for myself while learning, so they aren't a polished textbook. Some topics go deep and others are
+still rough. You'll see corrections and second attempts, and there may be mistakes I haven't caught yet. I'm
+sharing them in case they help someone working through the same material.
 
-Instead of just using libraries blindly, I focused on:
-- Understanding *why* algorithms work
-- Building strong mathematical intuition
-- Connecting theory → real-world applications
-
----
-
-## 🛠️ Tools & Libraries
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-- Seaborn
-
----
-
-These are my personal handwritten notes created while learning Data Science, Statistics, and Algorithmic Thinking.
-
-They were primarily written for my own understanding rather than as structured or complete study material. Because of that:
-
-- Some topics are covered in depth, while others are still evolving  
-- Explanations may be rough or iterative  
-- There may be mistakes or incomplete sections  
-
-These notes reflect my actual learning process over time, including trial, correction, and refinement.
-
-I'm sharing them in case they help someone else navigating similar concepts.
-
-
-## ⭐ If you find this useful
-
-Give this repo a ⭐ — it motivates me to keep building and sharing!
+If you find them useful, a star on the repo is always appreciated.
